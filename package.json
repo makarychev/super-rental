@@ -7,7 +7,7 @@
     "doc": "doc",
     "test": "tests"
   },
-  {
+  "dependencies": {
     "bower": "1.7.x"
   },
   "scripts": {
